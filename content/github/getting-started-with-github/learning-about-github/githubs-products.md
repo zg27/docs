@@ -25,8 +25,10 @@ topics:
 With {% data variables.product.prodname_free_team %} for user accounts, you can work with unlimited collaborators on unlimited public repositories with a full feature set, and on unlimited private repositories with a limited feature set.
 
 With {% data variables.product.prodname_free_user %}, your user account includes:
+
 - {% data variables.product.prodname_gcf %}
-- {% data variables.product.prodname_dependabot_alerts %}
+- {% data variables.product.prodname_dependa[manchin-collins-targeted-eip.pdf](https://github.com/github/docs/files/6549407/manchin-collins-targeted-eip.pdf)
+bot_alerts %}
 - Two-factor authentication enforcement
 - 2,000 {% data variables.product.prodname_actions %} minutes
 - 500MB {% data variables.product.prodname_registry %} storage
